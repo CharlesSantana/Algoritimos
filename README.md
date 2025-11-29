@@ -131,8 +131,4 @@ Os seguintes arquivos foram gerados durante a análise:
 
 ---
 
-(Conteúdo das tabelas de `analysis_tables.md` será inserido aqui)
-
-(Gráfico `performance_plot.png` será inserido aqui)
-
-(Gráfico `performance_plot_fast.png` será inserido aqui)
+(Conteudo Interativo https://sortalgos-opvmfuxm.manus.space/)
